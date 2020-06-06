@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Taciane\Classes\Pessoa\bin\Debug\Pessoa.exe.config
+C:\Users\User\Desktop\Taciane\Classes\Pessoa\bin\Debug\Pessoa.exe
+C:\Users\User\Desktop\Taciane\Classes\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\User\Desktop\Taciane\Classes\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Taciane\Classes\Pessoa\obj\Debug\Pessoa.exe
+C:\Users\User\Desktop\Taciane\Classes\Pessoa\obj\Debug\Pessoa.pdb
