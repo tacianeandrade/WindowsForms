@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\bin\Debug\parte 2.exe.config
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\bin\Debug\parte 2.exe
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\bin\Debug\parte 2.pdb
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\obj\Debug\parte 2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\obj\Debug\parte_2.Fahrenheit.resources
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\obj\Debug\parte_2.Properties.Resources.resources
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\obj\Debug\parte 2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\obj\Debug\parte 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\obj\Debug\parte 2.exe
+C:\Users\User\Desktop\Taciane\WinApp\exercicio 1\parte 2\obj\Debug\parte 2.pdb

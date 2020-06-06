@@ -1,0 +1,160 @@
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\bin\Debug\WinApp.exe
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\bin\Debug\WinApp.exe.config
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\obj\Debug\WinApp.frmCumprimentos.resources
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\obj\Debug\WinApp.exe
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\obj\Debug\WinApp.pdb
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\bin\Debug\WinApp.pdb
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\obj\Debug\WinApp.frmFahrenheit.resources
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\obj\Debug\WinApp.frmNotaFinal.resources
+D:\Users\descu\workspace\vstudio\WinApp\WinApp\obj\Debug\WinApp.frmPrincipal.resources
+C:\Users\User\Desktop\WinApp\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\User\Desktop\WinApp\WinApp\bin\Debug\WinApp.exe
+C:\Users\User\Desktop\WinApp\WinApp\bin\Debug\WinApp.pdb
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCambioCheckBox.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCambioDropDown.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCambioRadioButton.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCumprimentos.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmFahrenheit.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmNomeEmail.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmNotaFinal.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmPrincipal.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmQuantoTempoPassou.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmQueHorasSao.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.exe
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.pdb
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmTabuada.resources
+C:\Users\User\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmArvore.resources
+C:\Users\Java\Desktop\WinApp\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\Java\Desktop\WinApp\WinApp\bin\Debug\WinApp.exe
+C:\Users\Java\Desktop\WinApp\WinApp\bin\Debug\WinApp.pdb
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmArvore.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCambioCheckBox.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCambioDropDown.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCambioRadioButton.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCumprimentos.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmFahrenheit.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmHobbies.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmNomeEmail.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmNotaFinal.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmPrincipal.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmQuantoTempoPassou.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmQueHorasSao.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmTabuada.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.exe
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.pdb
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\bin\Debug\WinApp.exe
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\bin\Debug\WinApp.pdb
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmArvore.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmCambioCheckBox.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmCambioDropDown.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmCambioRadioButton.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmCumprimentos.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmFahrenheit.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmHobbies.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmNomeEmail.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmNotaFinal.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmPrincipal.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmQuantoTempoPassou.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmQueHorasSao.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmTabuada.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.exe
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.pdb
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\bin\Debug\Util.dll
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\bin\Debug\Util.pdb
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.csproj.CopyComplete
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\WinApp\obj\Debug\WinApp.frmEx10.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\bin\Debug\WinApp.exe.config
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\bin\Debug\WinApp.exe
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\bin\Debug\WinApp.pdb
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\bin\Debug\Util.dll
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\bin\Debug\Util.pdb
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmArvore.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmCambioCheckBox.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmCambioDropDown.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmCambioRadioButton.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmCumprimentos.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmEx10.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmFahrenheit.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmHobbies.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmNomeEmail.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmNotaFinal.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmPrincipal.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmQuantoTempoPassou.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmQueHorasSao.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.frmTabuada.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.csproj.CopyComplete
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.exe
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\WinApp\obj\Debug\WinApp.pdb
+C:\Users\Java\Desktop\WinApp\WinApp\bin\Debug\Util.dll
+C:\Users\Java\Desktop\WinApp\WinApp\bin\Debug\Util.pdb
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmEx10.resources
+C:\Users\Java\Desktop\WinApp\WinApp\obj\Debug\WinApp.csproj.CopyComplete
+C:\Users\tacia\Desktop\WinApp\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\tacia\Desktop\WinApp\WinApp\bin\Debug\WinApp.exe
+C:\Users\tacia\Desktop\WinApp\WinApp\bin\Debug\WinApp.pdb
+C:\Users\tacia\Desktop\WinApp\WinApp\bin\Debug\Util.dll
+C:\Users\tacia\Desktop\WinApp\WinApp\bin\Debug\Util.pdb
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmArvore.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCambioCheckBox.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCambioDropDown.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCambioRadioButton.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmCumprimentos.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmEx10.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmFahrenheit.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmHobbies.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmNomeEmail.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmNotaFinal.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmPrincipal.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmQuantoTempoPassou.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmQueHorasSao.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.frmTabuada.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.csproj.CopyComplete
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.exe
+C:\Users\tacia\Desktop\WinApp\WinApp\obj\Debug\WinApp.pdb
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\bin\Debug\WinApp.exe
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\bin\Debug\WinApp.pdb
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\bin\Debug\Util.dll
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\bin\Debug\Util.pdb
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmArvore.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmCambioCheckBox.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmCambioDropDown.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmCambioRadioButton.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmCumprimentos.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmEx10.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmFahrenheit.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmHobbies.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmNomeEmail.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmNotaFinal.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmPrincipal.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmQuantoTempoPassou.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmQueHorasSao.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.frmTabuada.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.csproj.CopyComplete
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.exe
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\WinApp\obj\Debug\WinApp.pdb

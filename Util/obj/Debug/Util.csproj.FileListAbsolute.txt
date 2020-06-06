@@ -1,0 +1,27 @@
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\Util\bin\Debug\Util.dll
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\Util\bin\Debug\Util.pdb
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\Util\obj\Debug\Util.dll
+C:\Users\amsousa\Documents\Workspace\Visual Studio\WinApp\Util\obj\Debug\Util.pdb
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\Util\bin\Debug\Util.dll
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\Util\bin\Debug\Util.pdb
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\Util\obj\Debug\Util.csprojAssemblyReference.cache
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\Util\obj\Debug\Util.dll
+E:\Rumos\Code Developer\Introdução à Programação orientada a Objetos em C# (POO)\exercícios\WinApp\Util\obj\Debug\Util.pdb
+C:\Users\Java\Desktop\WinApp\Util\bin\Debug\Util.dll
+C:\Users\Java\Desktop\WinApp\Util\bin\Debug\Util.pdb
+C:\Users\Java\Desktop\WinApp\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\Users\Java\Desktop\WinApp\Util\obj\Debug\Util.dll
+C:\Users\Java\Desktop\WinApp\Util\obj\Debug\Util.pdb
+C:\Users\tacia\Desktop\WinApp\Util\bin\Debug\Util.dll
+C:\Users\tacia\Desktop\WinApp\Util\bin\Debug\Util.pdb
+C:\Users\tacia\Desktop\WinApp\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\Users\tacia\Desktop\WinApp\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\tacia\Desktop\WinApp\Util\obj\Debug\Util.dll
+C:\Users\tacia\Desktop\WinApp\Util\obj\Debug\Util.pdb
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\Util\bin\Debug\Util.dll
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\Util\bin\Debug\Util.pdb
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\Util\obj\Debug\Util.dll
+C:\Users\tacia\OneDrive\Área de Trabalho\Taciane\AulasGalilleu\WinApp\Util\obj\Debug\Util.pdb
